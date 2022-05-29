@@ -281,7 +281,7 @@
     <li>They want to be able to view their visits on the haunted locales</li>
     <li>They want to be able to add visits to the haunted locales</li>
     <li>They want to be able to edit visits on the haunted locales</li>
-    <li>They want to be able to delete visits on the haunted locales</li>
+    <li>They want to be able to delete visits on the haunted locales</li>cl
 </ul>
 </details>
 <p></p>
