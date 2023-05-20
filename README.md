@@ -300,8 +300,7 @@
 
 <h1>:fast_forward: Next Steps</h1>
 
-<ul>
-    <li>Add ability for users to favorite haunted locales for later reference</li>
-    <li>Add ability for user comments on haunted locales and visits</li>
-    <li>Add ability to sort locales by location</li>
- </ul>
+- [ ] Add ability for users to favorite haunted locales for later reference
+- [ ] Add ability for user comments on haunted locales and visits
+- [ ] Add ability to sort locales by location
+
